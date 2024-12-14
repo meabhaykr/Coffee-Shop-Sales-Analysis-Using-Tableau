@@ -4,7 +4,7 @@ A dynamic analysis of sales data for Maven Roasters, a fictional coffee shop cha
 
 ---
 
-## 🚀 **Power BI Dashboard Snapshot**
+## **Power BI Dashboard Snapshot**
 
 <p align="center">
     <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Tableau/blob/main/Dashboard%20Image.png" alt="Dashboard Image">
@@ -19,7 +19,7 @@ To analyze sales data using Power BI and create a visually interactive dashboard
 
 ## **Table of Contents**
 
-- [Overview](#overview)
+- [Objective](#objective)
 - [Problem Statement](#problem-statement)
 - [Dataset Overview](#dataset-overview)
 - [Key Metrics](#key-metrics)
